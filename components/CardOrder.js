@@ -35,9 +35,10 @@ const stylesCardOrder = StyleSheet.create({
     fontSize: 18,
   },
   description: {
+    marginBottom: 12,
     fontFamily: 'SFProText400',
     fontSize: 16,
-    color: '#010f07a3',
+    color: '#868686',
   },
   price: {
     fontFamily: 'SFProText600',
